@@ -1,0 +1,48 @@
+{
+    "text_color": [
+        0.0,
+        0.0,
+        0.0,
+        1
+    ],
+    "background_color": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "button_color": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "display_text": "Welcome",
+    "overlay_shortcut": "ctrl+d",
+    "button_1": {
+        "type": "switch_desktop",
+        "parm": "Desktop 1"
+    },
+    "button_2": {
+        "type": "switch_desktop",
+        "parm": "Desktop 2"
+    },
+    "button_3": {
+        "type": "move_window_to_desktop",
+        "parm": "Desktop 1"
+    },
+    "button_4": {
+        "type": "move_window_to_desktop",
+        "parm": "Desktop 2"
+    },
+    "shortcut_names": [
+        "name 1",
+        "name 2",
+        "name 3",
+        "name 4"
+    ],
+    "point_left": "Last Tab",
+    "point_right": "Next Tab",
+    "point_up": "Increase Volume",
+    "point_down": "Decrease Volume"
+}
